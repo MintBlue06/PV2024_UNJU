@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.punto1;
 
-public class Punto1 {
+public class Main {
 	public static void main(String[] args) {
 		
 	int numero1 = 5;
