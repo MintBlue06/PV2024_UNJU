@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.punto3;
-//ingresa un numero y lo multiplica por 2 si es par
-//y por 3 si no lo es
+//ingresa un numero y lo multiplica por 3 si es par
+//y por 2 si no lo es
 import java.util.Scanner;
 
 public class Main {
