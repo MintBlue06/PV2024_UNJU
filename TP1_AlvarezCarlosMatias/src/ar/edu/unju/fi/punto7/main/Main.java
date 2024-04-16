@@ -20,7 +20,10 @@ public class Main {
 		String nombre = scanner.next();
 		System.out.println("Ingrese salario: ");
 		float salario = scanner.nextFloat();
-		Empleado empleado = new Empleado(legajo, nombre, salario);
+		Empleado empleado = new Empleado();
+		empleado.setLegajo(legajo);
+		empleado.setNombre(nombre);
+		empleado.setSalario(salario);
 		empleado.mostrarDatos();
 		scanner.close();
 		return empleado;

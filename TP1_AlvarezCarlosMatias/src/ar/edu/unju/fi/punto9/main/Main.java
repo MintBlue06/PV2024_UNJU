@@ -1,5 +1,6 @@
 package ar.edu.unju.fi.punto9.main;
-
+//ingresa datos de producto y muestra sus datos
+//itera 3 veces
 import java.util.Scanner;
 
 import ar.edu.unju.fi.punto9.model.Producto;
